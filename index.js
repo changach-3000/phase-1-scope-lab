@@ -12,7 +12,7 @@ function setBestCustomer(){
 }
 
 function overwriteBestCustomer(){
-    window.bestCustomer = "maybe bob";
+    bestCustomer = "maybe bob";
     return bestCustomer;
 }
 
